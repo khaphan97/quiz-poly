@@ -1,4 +1,4 @@
-import { HashRouter as Router, Route, Switch } from "react-router-dom";
+import { BrowserRouter  as Router, Route, Switch } from "react-router-dom";
 import styled from "styled-components";
 import Home from "./components/Home";
 import QuizPage from "./components/QuizPage";
@@ -16,7 +16,7 @@ export const WrapperStyled = styled.div`
 function App() {
 	return (
 		<WrapperStyled className="App">
-			<Router>
+			<Router basename={process.env.PUBLIC_URL}>
 				<Switch>
 					<Route path="/" exact>
 						<Home />

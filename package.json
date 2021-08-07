@@ -1,6 +1,5 @@
 {
 	"homepage": "https://phanhuykha123.github.io/quiz-poly/",
-	"name": "quiz-poly",
 	"version": "0.1.0",
 	"private": true,
 	"dependencies": {

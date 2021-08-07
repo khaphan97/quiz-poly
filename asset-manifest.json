@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/quiz-poly/static/js/main.46a2af75.chunk.js",
-    "main.js.map": "/quiz-poly/static/js/main.46a2af75.chunk.js.map",
+    "main.js": "/quiz-poly/static/js/main.15c2e56f.chunk.js",
+    "main.js.map": "/quiz-poly/static/js/main.15c2e56f.chunk.js.map",
     "runtime-main.js": "/quiz-poly/static/js/runtime-main.01e75e07.js",
     "runtime-main.js.map": "/quiz-poly/static/js/runtime-main.01e75e07.js.map",
     "static/css/2.3804ad1f.chunk.css": "/quiz-poly/static/css/2.3804ad1f.chunk.css",
-    "static/js/2.4cfbe6c6.chunk.js": "/quiz-poly/static/js/2.4cfbe6c6.chunk.js",
-    "static/js/2.4cfbe6c6.chunk.js.map": "/quiz-poly/static/js/2.4cfbe6c6.chunk.js.map",
+    "static/js/2.08421d8f.chunk.js": "/quiz-poly/static/js/2.08421d8f.chunk.js",
+    "static/js/2.08421d8f.chunk.js.map": "/quiz-poly/static/js/2.08421d8f.chunk.js.map",
     "index.html": "/quiz-poly/index.html",
     "static/css/2.3804ad1f.chunk.css.map": "/quiz-poly/static/css/2.3804ad1f.chunk.css.map",
-    "static/js/2.4cfbe6c6.chunk.js.LICENSE.txt": "/quiz-poly/static/js/2.4cfbe6c6.chunk.js.LICENSE.txt"
+    "static/js/2.08421d8f.chunk.js.LICENSE.txt": "/quiz-poly/static/js/2.08421d8f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.01e75e07.js",
     "static/css/2.3804ad1f.chunk.css",
-    "static/js/2.4cfbe6c6.chunk.js",
-    "static/js/main.46a2af75.chunk.js"
+    "static/js/2.08421d8f.chunk.js",
+    "static/js/main.15c2e56f.chunk.js"
   ]
 }
